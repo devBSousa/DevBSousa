@@ -9,5 +9,5 @@
 
 
 -  Estou em busca da primeira oportunidade na área
--  Estudando javaScript
+-  Estudando javaScript e Python
 -  Graduando em Análise e Desenvolvimento de Sistemas
